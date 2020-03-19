@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oequiecha.rachelbeiser.com/sitemap.xml
